@@ -63,3 +63,9 @@ python main.py --json template.json --head
 - selenium 库框架相当于模拟浏览器的各种操作，它的请求发送速度和响应速度都比较慢，所以在抢羽毛球这样的热门场地时并不占优势。
 - selenium 使用时会很占电脑资源，所以这个脚本其实并不适合部署在服务器上长时间运行。
 - 之后会基于HTTP协议写一个更快速轻量的抢场地脚本。
+
+## 致谢
+
+> 感谢以下项目作者:
+> - [**ifarewell/jAutoVenue**](https://github.com/ifarewell/jAutoVenue)
+> - [**PhotonQuantum/jaccount-captcha-solver**](https://github.com/PhotonQuantum/jaccount-captcha-solver)
